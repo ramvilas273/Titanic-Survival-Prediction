@@ -133,7 +133,7 @@ Opens at `http://localhost:8501`.
 Aspiring Data Scientist & ML Engineer, based in Chennai, India
 
 - GitHub: [@ramvilas273](https://github.com/ramvilas273)
-- LinkedIn: [in/ramvilas](https://www.linkedin.com/in/ramvilas)
+- LinkedIn: [in/ramvilas](https://www.linkedin.com/in/ram-vilas/)
 
 ## 📄 License
 
